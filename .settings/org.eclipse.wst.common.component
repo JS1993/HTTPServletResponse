@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Day09_00_HTTPServletResponse">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/Day09_00_HTTPServletResponse"/>
+        <property name="java-output-path" value="/Day09_00_HTTPServletResponse/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
